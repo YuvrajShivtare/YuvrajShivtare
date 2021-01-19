@@ -5,11 +5,6 @@
 </p>
 
 
-<p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-</p>
-
 
 
 **Languages and Tools:**
@@ -36,17 +31,6 @@
 
 
 
-### Github Stats:
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=YuvrajShivtare&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajShivtare&count_private=true&theme=dracula">
-
-</p>
-<p align="center">
-Check out my repos ⬇️  
-</p>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=YuvrajShivtare.YuvrajShivtare)
